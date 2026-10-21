@@ -9,7 +9,7 @@
 - Players like Bryson Stott, Masyn Winn, Nico Hoerner or Cam Smih were considered to be buy-low trade targets.
 - Players like Pete Crow-Armstrong, Junior Caminero and Otto Lopez had higher actual stats than expected stats but because of their overall run prodcution they were still considered elite run producers, rather than lucky hitters.
 - Ernie Clement was the luckiest hitter with a wOBA of 0.326 and an xwOBA of 0.275 (0.051 difference). The unluckiest hitter was Yordan Alvarez with a wOBA of 0.439 and an xwOBA of 0.476.
-![Dashboard](images/dashboard.png)
+![Dashboard](images/MLBDashboard.png)
 ## Data
 - Source: The data came from public Fangraphs publishings.
 - Stats used: wOBA, xWOBA, wRC+, wOBA_Diff
